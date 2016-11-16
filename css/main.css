@@ -1,5 +1,20 @@
 /* Hint! the @font-face rule needs to be the first thing in your CSS file!*/
 
+@font-face {
+	font-family: 'alegreyablack_italic';
+    src: url('../fonts/alegreya-blackitalic-webfont.woff2') format('woff2'),
+         url('../fonts/alegreya-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'changaregular';
+    src: url('../fonts/changa-regular-webfont.woff2') format('woff2'),
+         url('../fonts/changa-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 /* Start the CSS*/
 body {
@@ -22,29 +37,29 @@ body {
 }
 
 h1 {
-
+	font-family: 'changaregular';
 }
 
 h2 {
-
+	font-family: 'alegreyablack_italic';
 }
 
 h3 {
-
+	font-family: 'changaregular';
 }
 
 h4 {
-
+	font-family: 'alegreyablack_italic';
 }
 
 h5 {
-
+	font-family: 'changaregular';
 }
 
 h6 {
-
+	font-family: 'alegreyablack_italic';
 }
 
 p {
-
+	font-family: 'changaregular';
 }
