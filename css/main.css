@@ -2,15 +2,15 @@
 
 @font-face {
 	font-family: 'alegreyablack_italic';
-    src: url('fonts/alegreya-blackitalic-webfont.woff2') format('woff2'),
-         url('fonts/alegreya-blackitalic-webfont.woff') format('woff');
+    src: url('../fonts/alegreya-blackitalic-webfont.woff2') format('woff2'),
+         url('../fonts/alegreya-blackitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'changaregular';
-    src: url('fonts/changa-regular-webfont.woff2') format('woff2'),
-         url('fonts/changa-regular-webfont.woff') format('woff');
+    src: url('../fonts/changa-regular-webfont.woff2') format('woff2'),
+         url('../fonts/changa-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
