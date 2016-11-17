@@ -41,25 +41,25 @@ h1 {
 }
 
 h2 {
-	font-family: 'alegreyablack_italic';
+	font-family: 'alegreyablack_italic', san-serif;
 }
 
 h3 {
-	font-family: 'changaregular';
+	font-family: 'changaregular', serif;
 }
 
 h4 {
-	font-family: 'alegreyablack_italic';
+	font-family: 'alegreyablack_italic', san-serif;
 }
 
 h5 {
-	font-family: 'changaregular';
+	font-family: 'changaregular', serif;
 }
 
 h6 {
-	font-family: 'alegreyablack_italic';
+	font-family: 'alegreyablack_italic', san-serif;
 }
 
 p {
-	font-family: 'changaregular';
+	font-family: 'changaregular', serif;
 }
